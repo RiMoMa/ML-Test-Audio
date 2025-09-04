@@ -15,4 +15,4 @@ pyarrow
 tensorflow
 lightgbm
 mlflow
-
+umap-learn
